@@ -3,11 +3,13 @@ body{
 
 }
 
-
+p {
+    font-size: 20px;
+}
 
 
 .Contact{
     align-content:center;
-    text-align: center
+    text-align:center;
 
   }
