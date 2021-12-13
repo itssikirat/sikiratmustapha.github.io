@@ -1,0 +1,67 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 854px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 143px;
+  height: 143px;
+  object-position: 50% 10.31%;
+  background-image: url("images/TyreseMilsteinDigitals5.jpg");
+  background-position: 50% 20.94%;
+  animation-duration: 1000ms;
+  margin: 305px auto 0 208px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 570px;
+  height: 126px;
+  margin: -106px 206px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  letter-spacing: 2px;
+  font-size: 1.25rem;
+  animation-duration: 1000ms;
+  margin: 15px auto 60px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-2 {
+    margin-right: 150px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 0.875rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 847px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 119px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 803px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 197px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 75px;
+  }
+}

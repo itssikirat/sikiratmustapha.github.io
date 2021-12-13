@@ -1,1 +1,0 @@
-# tyresethomas.github.io
