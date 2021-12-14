@@ -477,7 +477,6 @@
   width: 1075px;
   background-image: none;
   min-height: 265px;
-  height: auto;
   margin: 105px 26px 0 auto;
 }
 
@@ -568,7 +567,6 @@
   .u-section-4 .u-group-1 {
     width: 940px;
     margin-right: 0;
-    height: auto;
   }
 
   .u-section-4 .u-image-4 {

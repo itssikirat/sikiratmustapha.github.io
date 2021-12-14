@@ -1,0 +1,285 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 943px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 384px;
+  height: 72px;
+  margin: 57px auto 0 233px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: AkiraExpandedDemo;
+  font-weight: 600;
+  font-size: 3rem;
+  margin: -51px auto 0 194px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: AkiraExpandedDemo;
+  font-weight: 600;
+  font-size: 3rem;
+  text-align: start;
+  margin: -34px auto 0 194px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  text-align: start;
+  letter-spacing: 0px;
+  font-weight: normal;
+  font-family: Raleway, sans-serif;
+  margin: -9px 12px 0 194px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 159px;
+  height: 159px;
+  margin: -155px auto 0 12px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 884px;
+  height: 590px;
+  margin: 58px 88px 40px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 975px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 866px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 720px;
+    height: 481px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 746px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 156px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 146px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 146px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 146px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 540px;
+    height: 361px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 604px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 64px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -43px;
+    margin-left: 92px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 92px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 92px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 340px;
+    height: 227px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 784px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: AkiraExpandedDemo;
+  font-weight: 600;
+  font-size: 3rem;
+  text-align: start;
+  margin: 81px auto 0 227px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 154px;
+  height: 154px;
+  margin: -55px auto 0 46px;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: AkiraExpandedDemo;
+  font-weight: 600;
+  font-size: 3rem;
+  text-align: start;
+  margin: -129px auto 0 227px;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 1.25rem;
+  text-align: start;
+  letter-spacing: 0px;
+  font-weight: normal;
+  font-family: Raleway, sans-serif;
+  margin: 0 -40px 0 227px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 872px;
+  height: 237px;
+  margin: 53px 113px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 92px;
+    margin-right: 146px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: -31px;
+    margin-left: 34px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: 45px;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 743px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 720px;
+    height: 196px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 694px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 170px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 170px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 540px;
+    height: 147px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 640px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 92px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 107px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 107px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 93px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 357px;
+  height: 67px;
+  margin: 59px auto 60px 35px;
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 497px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 64px;
+    margin-left: 0;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 232px;
+  height: 135px;
+  filter: brightness(0);
+  margin: 54px auto 60px 39px;
+}@font-face {
+  font-family: 'AkiraExpandedDemo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/AkiraExpandedDemo.otf);
+}
