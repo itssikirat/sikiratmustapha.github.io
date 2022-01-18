@@ -237,18 +237,20 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 2359px;
+    min-height: 2405px;
   }
 
   .u-section-3 .u-image-1 {
     width: 104px;
     height: 46px;
-    margin-right: 0;
+    margin-top: 9px;
+    margin-right: 2px;
   }
 
   .u-section-3 .u-text-1 {
     font-size: 0.875rem;
     width: auto;
+    margin-top: -37px;
     margin-right: 0;
   }
 
