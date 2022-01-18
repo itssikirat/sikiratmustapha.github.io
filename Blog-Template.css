@@ -149,4 +149,9 @@
   .u-section-1 .u-image-3 {
     height: 278px;
   }
+}@font-face {
+  font-family: 'AkiraExpandedDemo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/AkiraExpandedDemo.otf);
 }
