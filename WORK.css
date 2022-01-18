@@ -633,13 +633,13 @@
   .u-section-4 .u-image-1 {
     width: 56px;
     height: 33px;
-    margin-top: -32px;
-    margin-left: calc(((100% - 340px) / 2) + -39px);
+    margin-top: -29px;
+    margin-left: calc(((100% - 340px) / 2) + -33px);
   }
 
   .u-section-4 .u-text-3 {
     font-size: 0.625rem;
-    margin-top: 15px;
+    margin-top: 12px;
     margin-right: calc(((100% - 340px) / 2) + -30px);
     margin-left: calc(((100% - 340px) / 2) + 30px);
   }
@@ -877,20 +877,27 @@
   }
 
   .u-section-5 .u-rotation-parent-1 {
-    margin-top: 0;
-    margin-right: 0;
+    width: 23px;
+    height: 23px;
+    margin-top: -22px;
+    margin-right: 7px;
     margin-left: auto;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 23px;
+    height: 23px;
   }
 
   .u-section-5 .u-text-2 {
     font-size: 0.625rem;
     width: auto;
-    margin-top: -27px;
+    margin-top: 6px;
   }
 
   .u-section-5 .u-group-1 {
     min-height: 517px;
-    margin-top: 585px;
+    margin-top: 578px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
